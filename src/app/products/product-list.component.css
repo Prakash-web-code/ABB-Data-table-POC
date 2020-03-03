@@ -1,0 +1,9 @@
+.table td {
+    vertical-align: middle;
+}
+thead {
+    color: #337AB7;
+}
+.search_no_results{ 
+    text-align: center;
+}
